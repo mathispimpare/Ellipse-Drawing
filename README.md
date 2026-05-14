@@ -15,7 +15,7 @@ Le code de ce programme n'est surement pas dutout optimisé, c'est bien pour cel
 
 Clone le projet :
 ```bash
-git clone https://github.com/mathispimpare/Compiler-Interpreter-Haskell.git
+git clone https://github.com/mathispimpare/First-Year-computer-cience-project-ellipse-drawing.git
 ```
 
 Drag and Drop le fichier `dessiner.py` dans codeboot : https://codeboot.org
