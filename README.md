@@ -26,10 +26,6 @@ Lance le programme :
 Une fois le programme lancé, les tests unitaires seront exécutés et il suffit d'aller dans la console et d'appeler la fonction :
 ```dessiner()```
 
-## Auteur
-
-Créé par **Mathis Pimparé**.
-
 ## Licence
 
 Ce projet est sous licence MIT.
